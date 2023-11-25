@@ -1,0 +1,25 @@
+Feature selection : 
+
+- filter method :
+ check relevance of attribute 
+1) information gain method :
+2) chi-square test : 
+3) correlation coef : increase or decrease 
+
+- wrapper  method :
+genetic algorith  : 
+recursive feature elimination :
+ABCDEFT
+subset of feature
+A -- T
+AB -- T 
+ABC -- T
+
+
+Embedded method :
+dicision tree :
+find attribute usefull ness   
+
+
+
+one vs all classification and one vs one classification : 
